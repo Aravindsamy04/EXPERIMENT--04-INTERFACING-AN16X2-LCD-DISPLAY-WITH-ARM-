@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
-
+### DATE:
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
@@ -173,9 +173,11 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 Developed by: Aravind samy .p
 REF N0. 212222230011
-
+```
+```
 #include "main.h"
 #include "lcd.h"
 
@@ -208,7 +210,7 @@ int main(void)
   }
 
 }
-
+```
 ## Output screen shots of proteus  :
 
 ![with](https://github.com/Aravindsamy04/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497037/7e208aff-eb1c-4772-a99c-07aad49f1738)
